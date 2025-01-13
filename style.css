@@ -7,3 +7,13 @@ nav{
     box-sizing: border-box;
 
 }
+a{
+   
+    background-color: aqua;
+
+}
+footer{
+    width: 100%;
+    height: auto;
+    background-color: red;
+}
